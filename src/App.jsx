@@ -5,7 +5,7 @@ import About from "./Pages/About";
 import Projects from "./Pages/Projects";
 import Contact from "./Pages/Contact";
 import Skill from "./Pages/Skill";
-import Blogs from "./Pages/Blogs";
+// import Blogs from "./Pages/Blogs";
 import TechProjects from "./Pages/TechProjects";
 import { useTheme } from "./contextapi/ThemeState";
 import { useEffect } from "react";
