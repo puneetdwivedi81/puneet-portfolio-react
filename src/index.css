@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui;
+}
+
+/* Tailwind v4 mein dark mode class selector aise enable hota hai */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Background colors switch karne ke liye ensure karein aapne classes sahi use ki hain */
+:root {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
