@@ -5,7 +5,7 @@ import img3 from '../assets/newsAppImage.png';
 import img4 from '../assets/HanumantTechImg.png'
 import img5 from '../assets/StudySync.png';
 import img6 from '../assets/Stop_watch.png'
-import img7 from '../assets/TodoList.png'
+import img7 from '../assets/ToDoList.png'
 import img8 from '../assets/logInPage.png'
 import img9 from '../assets/colourGenImg.png'
 import img10 from '../assets/GithubProfileProvider.png'
@@ -34,7 +34,7 @@ export const projectsData = [
     image: img12
   },
    {
-    id: 2,
+    id: 3,
     title: "React NewsApp",
     description: "Modern News application fetching global headlines across categories like Business, Tech, and Sports using React state management.",
     tech: ["React", "Tailwind CSS", "API Integration"],
@@ -44,7 +44,7 @@ export const projectsData = [
     image: img3
   },
    {
-    id: 2,
+    id: 4,
     title: "FlexiBank",
     description: "A comprehensive React.js digital wallet application featuring real-time balance tracking, secure deposit, and withdrawal functionalities. It offers a seamless user experience with an integrated Dark/Light mode toggle, demonstrating advanced state management and responsive UI design",
     tech: ["React", "Tailwind CSS",],
@@ -56,7 +56,7 @@ export const projectsData = [
 
 
   {
-    id: 3,
+    id: 5,
     title: "Global Country Finder",
     description: "A dynamic web application built with Vanilla JavaScript that integrates the REST Countries API to fetch and display real-time data of nations worldwide. This project highlights my expertise in Asynchronous Programming (Fetch API), dynamic DOM manipulation, and search filtering logic, allowing users to explore country details like population, region, and capital in a clean, responsive interface.",
     tech: ["JavaScript", "HTML5", "CSS3", "Fetch API"],
@@ -66,7 +66,7 @@ export const projectsData = [
     image: img1
   },
    {
-    id: 4,
+    id: 6,
     title: "colourGenrator",
     description: "A dynamic JavaScript utility that generates random HEX color codes and allows users to copy them to the clipboard with a single click. It features real-time DOM updates and background transitions, demonstrating efficient event handling and CSS variable manipulation.",
     tech: ["JavaScript", "HTML5", "CSS3", ],
@@ -76,7 +76,7 @@ export const projectsData = [
     image: img9,
   },
    {
-    id: 5,
+    id: 7,
     title: "githubProfileProvider",
     description: "A dynamic web tool built with JavaScript that fetches real-time user data from the GitHub REST API. It features a clean, minimal UI to display profile details like bio, repositories, and followers, demonstrating expertise in Asynchronous Fetch and JSON data handling",
     tech: ["JavaScript", "HTML5", "CSS3", ],
@@ -86,7 +86,7 @@ export const projectsData = [
     image: img10,
   },
    {
-    id: 6,
+    id: 8,
     title: "stopWatch",
     description: "A fully functional digital Stopwatch built with  JavaScript, HTML5, and CSS3. This project highlights my expertise in DOM Manipulation and state management using , featuring accurate time-tracking with Start, Pause, and Reset functionalities in a sleek dark-mode interface.",
     tech: ["JavaScript", "HTML5", "CSS3",],
@@ -97,7 +97,7 @@ export const projectsData = [
   },
  
   {
-    id: 7,
+    id: 9,
     title: "toDoList",
     description: "A functional Task Management application built with Vanilla JavaScript that enables users to add, track, and delete daily tasks efficiently. It utilizes Local Storage to ensure data persistence, allowing your list to remain saved even after a page refresh.",
     tech: ["JavaScript","CSS"],
@@ -109,7 +109,7 @@ export const projectsData = [
  
   
   {
-  id: 8, 
+  id: 10, 
   title: "Hanuman Institute Clone",
   description: "A professional landing page clone of a training institute, built entirely with HTML5 and CSS3 to master layout positioning and responsive design.",
   tech: ["HTML5", "CSS3", "Responsive Design", "Flexbox"],
@@ -120,7 +120,7 @@ export const projectsData = [
 },
   
   {
-  id: 9,
+  id: 11,
   title: "StudySync Clone",
   description: "A high-fidelity landing page clone of the StudySync platform, focusing on modern web aesthetics, responsive layouts, and smooth CSS transitions.",
   tech: ["HTML5", "CSS3", "Responsive Design", "Flexbox"],
@@ -130,7 +130,7 @@ export const projectsData = [
   image:img5  }
 ,
  {
-  id: 10, 
+  id: 12, 
   title: "loginPageWithAnimation",
   description: "A modern and visually appealing Login Page featuring smooth CSS3 keyframe animations and transitions for an interactive user experience. Designed with a mobile-first approach, it focuses on clean UI/UX, custom-styled input fields, and responsive layout structures",
   tech: ["HTML5", "CSS3", "Responsive Design", "Flexbox"],
