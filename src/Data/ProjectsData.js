@@ -28,8 +28,8 @@ export const projectsData = [
     description: "A professional, high-performance React.js portfolio website designed with Tailwind CSS and Framer Motion for smooth UI transitions.",
     tech: ["React.js", "Tailwind CSS", "Lucide-React", "Context API"],
     category: "react",
-    github: "https://github.com/puneetdwivedi81/News_App",
-    live: "https://reliable-banoffee-6121eb.netlify.app/login",
+    github: "https://github.com/puneetdwivedi81/puneet-portfolio-react",
+    live: "https://puneetpersonalportfolio.netlify.app/",
     image: img12
   },
   {
