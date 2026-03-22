@@ -40,7 +40,7 @@ export const projectsData = [
     tech: ["React", "Tailwind CSS", "API Integration"],
     category: "react",
     github: "https://github.com/puneetdwivedi81/News_App",
-    live: "https://news-app-fawn-phi.vercel.app/login",
+    live: "https://news-app-fawn-phi.vercel.app/",
     image: img3
   },
   {
