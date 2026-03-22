@@ -3,7 +3,7 @@ import img2 from '../assets/myNoteBookImage.png';
 import img3 from '../assets/newsAppImage.png';
 import img4 from '../assets/HanumantTechImg.png';
 import img5 from '../assets/StudySync.png';
-import img6 from '../assets/Stop_watch.png';
+// import img6 from '../assets/Stop_watch.png';
 import img7 from '../assets/ToDoList.png'; // Verified: Match Github case
 import img8 from '../assets/logInPage.png';
 import img9 from '../assets/colourGenImg.png';
@@ -30,7 +30,7 @@ export const projectsData = [
     tech: ["React.js", "Tailwind CSS", "Lucide-React", "Context API"],
     category: "react",
     github: "https://github.com/puneetdwivedi81/puneet-portfolio-react",
-    live: "https://puneetpersonalportfolio.netlify.app/",
+    live: "https://puneet-portfolio-react.vercel.app/",
     image: img12
   },
   {
@@ -40,7 +40,7 @@ export const projectsData = [
     tech: ["React", "Tailwind CSS", "API Integration"],
     category: "react",
     github: "https://github.com/puneetdwivedi81/News_App",
-    live: "https://reliable-banoffee-6121eb.netlify.app/login",
+    live: "https://news-app-fawn-phi.vercel.app/login",
     image: img3
   },
   {
@@ -70,7 +70,7 @@ export const projectsData = [
     tech: ["JavaScript", "HTML5", "CSS3", "Fetch API"],
     category: "javascript", 
     github: "https://github.com/puneetdwivedi81/GlobalCountryFinder",
-    live: "https://euphonious-biscochitos-d54db2.netlify.app",
+    live: "https://global-country-finder.vercel.app/",
     image: img1
   },
   {
@@ -93,16 +93,16 @@ export const projectsData = [
     live: "https://githubprofileprovider.netlify.app/",
     image: img10
   },
-  {
-    id: 9,
-    title: "stopWatch",
-    description: "A fully functional digital Stopwatch built with JavaScript, HTML5, and CSS3.",
-    tech: ["JavaScript", "HTML5", "CSS3"],
-    category: "javascript", 
-    github: "https://github.com/puneetdwivedi81/Stop_Watch",
-    live: "https://stopjwatch.netlify.app/",
-    image: img6
-  },
+  // {
+  //   id: 9,
+  //   title: "stopWatch",
+  //   description: "A fully functional digital Stopwatch built with JavaScript, HTML5, and CSS3.",
+  //   tech: ["JavaScript", "HTML5", "CSS3"],
+  //   category: "javascript", 
+  //   github: "https://github.com/puneetdwivedi81/Stop_Watch",
+  //   live: "https://stopjwatch.netlify.app/",
+  //   image: img6
+  // },
   {
     id: 10,
     title: "toDoList",
