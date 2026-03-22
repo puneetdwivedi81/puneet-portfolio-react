@@ -10,7 +10,7 @@ import img9 from '../assets/colourGenImg.png';
 import img10 from '../assets/GithubProfileProvider.png';
 import img11 from '../assets/flexBankImg.png';
 import img12 from '../assets/PersonalPortfolioAppImg.png';
-import img12 from '../assets/passwordGenrator.png'
+import img13 from '../assets/passwordGenrator.png'
 
 export const projectsData = [
   {
@@ -61,7 +61,7 @@ export const projectsData = [
     category: "react",
     github: "https://github.com/puneetdwivedi81/password_generator",
     live: "https://passwordpgenerator.netlify.app/",
-    image: img12
+    image: img13
   },
   {
     id: 6,
