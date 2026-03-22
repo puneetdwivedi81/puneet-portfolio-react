@@ -10,6 +10,7 @@ import img9 from '../assets/colourGenImg.png';
 import img10 from '../assets/GithubProfileProvider.png';
 import img11 from '../assets/flexBankImg.png';
 import img12 from '../assets/PersonalPortfolioAppImg.png';
+import img12 from '../assets/passwordGenrator.png'
 
 export const projectsData = [
   {
@@ -52,8 +53,18 @@ export const projectsData = [
     live: "https://contextpapi.netlify.app/",
     image: img11
   },
-  {
+   {
     id: 5,
+    title: "passwordGenerator",
+    description: "A responsive Password Generator built using React that creates secure and customizable passwords based on selected length, numbers, and symbols it allows users to instantly generate and copy strong passwords with a clean and user-friendly interface.",
+    tech: ["React", "Tailwind CSS"],
+    category: "react",
+    github: "https://github.com/puneetdwivedi81/password_generator",
+    live: "https://passwordpgenerator.netlify.app/",
+    image: img12
+  },
+  {
+    id: 6,
     title: "Global Country Finder",
     description: "A dynamic web application built with Vanilla JavaScript that integrates the REST Countries API.",
     tech: ["JavaScript", "HTML5", "CSS3", "Fetch API"],
@@ -63,7 +74,7 @@ export const projectsData = [
     image: img1
   },
   {
-    id: 6,
+    id: 7,
     title: "colourGenrator",
     description: "A dynamic JavaScript utility that generates random HEX color codes.",
     tech: ["JavaScript", "HTML5", "CSS3"],
@@ -73,7 +84,7 @@ export const projectsData = [
     image: img9
   },
   {
-    id: 7,
+    id: 8,
     title: "githubProfileProvider",
     description: "A dynamic web tool built with JavaScript that fetches real-time user data from the GitHub REST API.",
     tech: ["JavaScript", "HTML5", "CSS3"],
@@ -83,7 +94,7 @@ export const projectsData = [
     image: img10
   },
   {
-    id: 8,
+    id: 9,
     title: "stopWatch",
     description: "A fully functional digital Stopwatch built with JavaScript, HTML5, and CSS3.",
     tech: ["JavaScript", "HTML5", "CSS3"],
@@ -93,7 +104,7 @@ export const projectsData = [
     image: img6
   },
   {
-    id: 9,
+    id: 10,
     title: "toDoList",
     description: "A functional Task Management application built with Vanilla JavaScript using Local Storage.",
     tech: ["JavaScript","CSS"],
@@ -103,7 +114,7 @@ export const projectsData = [
     image: img7
   },
   {
-    id: 10, 
+    id: 11, 
     title: "Hanuman Institute Clone",
     description: "A professional landing page clone of a training institute, built entirely with HTML5 and CSS3.",
     tech: ["HTML5", "CSS3", "Responsive Design", "Flexbox"],
@@ -113,7 +124,7 @@ export const projectsData = [
     image: img4 
   },
   {
-    id: 11,
+    id: 12,
     title: "StudySync Clone",
     description: "A high-fidelity landing page clone of the StudySync platform.",
     tech: ["HTML5", "CSS3", "Responsive Design", "Flexbox"],
@@ -123,7 +134,7 @@ export const projectsData = [
     image: img5
   },
   {
-    id: 12, 
+    id: 13, 
     title: "loginPageWithAnimation",
     description: "A modern Login Page featuring smooth CSS3 keyframe animations.",
     tech: ["HTML5", "CSS3", "Responsive Design", "Flexbox"],
