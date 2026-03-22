@@ -20,7 +20,7 @@ export const projectsData = [
     tech: ["MongoDB", "Express", "React", "Node"],
     category: "mern",
     github: "https://github.com/puneetdwivedi81/noteBook",
-    live: "https://itspnotebook.netlify.app/",
+    live: "https://note-book-kappa.vercel.app/",
     image: img2 
   },
   {
