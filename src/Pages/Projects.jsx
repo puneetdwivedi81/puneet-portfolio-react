@@ -15,7 +15,7 @@ const Projects = () => {
           </h1>
         </div>
 
-        <a href="/MERN_Stack_Resume.pdf" download className="flex items-center gap-2 bg-indigo-600 text-white px-5 py-2.5 rounded-xl text-xs font-bold shadow-lg shadow-indigo-500/20">
+        <a href="/puneetDwivediResume.pdf" download className="flex items-center gap-2 bg-indigo-600 text-white px-5 py-2.5 rounded-xl text-xs font-bold shadow-lg shadow-indigo-500/20">
           <Download size={16} /> DOWNLOAD CV
         </a>
       </div>

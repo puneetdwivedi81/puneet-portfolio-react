@@ -57,7 +57,7 @@ const education = [
             {/* Resume Download Button */}
             <div className="pt-4">
               <a 
-                href="/MERN_Stack_Resume.pdf" 
+                href="/puneetDwivediResume.pdf" 
                 download="Puneet_Dwivedi_Resume.pdf"
                 className="inline-flex items-center gap-2 bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-2xl font-bold transition-all active:scale-95 shadow-lg shadow-indigo-500/20"
               >

@@ -79,7 +79,7 @@ const HomePage = () => {
               <Github size={20}/>
             </a>
             <a 
-              href="/MERN_Stack_Resume.pdf" 
+              href="/puneetDwivediResume.pdf" 
               download="Puneet_Dwivedi_Resume.pdf"
               className="text-gray-600 dark:text-gray-400 hover:text-indigo-600 transition-colors"
             >

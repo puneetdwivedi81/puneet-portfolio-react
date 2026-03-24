@@ -50,7 +50,7 @@ export const projectsData = [
     tech: ["React", "Tailwind CSS"],
     category: "react",
     github: "https://github.com/puneetdwivedi81/Context_Api",
-    live: "https://contextpapi.netlify.app/",
+    live: "https://context-api-sand.vercel.app/",
     image: img11
   },
    {
